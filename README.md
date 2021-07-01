@@ -1,4 +1,4 @@
-**In this project,I have tried to classify whether a person has a _benign(non cancerous)_ or a _malignant_ type of cancer depending upon certain relavant features.The following steps were done in this process**
+**In this project,I have tried to classify whether a person has a _benign(non cancerous)_ or a _malignant(cancerous)_ type of cancer depending upon certain relavant features.The following steps were done in this process**
 
 1. After loading the data, some statistical details were known using pandas.
 2. Data visualization was done b/w independant features and the dependant feature.
