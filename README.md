@@ -1,6 +1,6 @@
 <h3> In this project,I tried to classify whether a person has a benign(non cancerous) or a malignant(cancerous) type of cancer depending upon certain relavant features.The following steps were done in this process. </h3>
 
-1. After loading the data, some statistical details were known using pandas=
+1. After loading the data, some statistical details were known using pandas.
 2. Data visualization was done b/w independant features and the dependant feature.
 3. A heatmap was used to see the most correlated features.
 4. After splitting the data into training and test set, data normalization was done on all the independent features.
